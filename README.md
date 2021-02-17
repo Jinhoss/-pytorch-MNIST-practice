@@ -1,1 +1,1 @@
-# -pytorch-MNIST-practice
+# [pytorch] MNIST-practice
